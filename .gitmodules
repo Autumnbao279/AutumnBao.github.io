@@ -1,0 +1,3 @@
+[submodule "autumnbao/themes/virgo"]
+	path = autumnbao/themes/virgo
+	url = https://github.com/loveminimal/hugo-theme-virgo.git
